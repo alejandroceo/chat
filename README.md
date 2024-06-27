@@ -19,4 +19,4 @@ Instalar dependencias:
 
  Siguiendo estos pasos, deberías tener tu proyecto de chat corriendo localmente con Node.js y Socket.io.
 
- Esto ejecutará tu archivo server.js y tu servidor debería estar corriendo en http://localhost:3000.
+ Esto ejecutará tu archivo server.js y tu servidor debería estar corriendo en http://127.0.0.1:8000
