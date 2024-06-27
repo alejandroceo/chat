@@ -32,7 +32,7 @@ socket.on("login", () => {
   alert(
     "¡Bienvenido " +
       txtUserNickName.value.trim() +
-      "!\nRecuerda, respetar a los demás usuarios."
+      "!\nRecuerda, respetar a los otros usuarios."
   );
   formLogin.style.display = "none";
   formContentChat.style.display = "flex";
