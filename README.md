@@ -20,3 +20,8 @@ Instalar dependencias:
  Siguiendo estos pasos, deberías tener tu proyecto de chat corriendo localmente con Node.js y Socket.io.
 
  Esto ejecutará tu archivo server.js y tu servidor debería estar corriendo en http://127.0.0.1:8000
+
+......
+Testeado en Render.com y funciona para un deploy de produccion, (para render no necesita vercel.json)
+
+Testeado en Vercel con su archivo necesario vercel.json...
